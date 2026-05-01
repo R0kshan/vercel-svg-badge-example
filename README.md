@@ -22,9 +22,7 @@ vercel dev --debug
 
 ## Deploy to Vercel
 
-Import project and leave all default options as is :
-
-![Vercel import screenshot](vercel-import.png)
+Go to [Vercel](https://vercel.com), import project and leave all default options as is.
 
 ## View deployemnt in Vercel
 
