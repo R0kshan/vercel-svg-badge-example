@@ -1,0 +1,10 @@
+{
+  "repository": "https://github.com/R0kshan/nodejs-vercel-template.git",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@vercel/node": "^5.0.0",
+    "typescript": "^5.0.0"
+  }
+}
