@@ -1,6 +1,6 @@
-# A NodeJS + Vercel template
+# A simple NodeJS + Vercel example
 
-A simple Node.js + Vercel example app that can be used as template based on [<https://github.com/vercel/examples>](https://github.com/vercel/examples/tree/main/solutions/node-hello-world) with updated Node.js version.
+A simple Node.js + Vercel example app for generating an SVG that can be added to a README.md or return a JSON response
 
 ## Install the Vercel CLI
 
