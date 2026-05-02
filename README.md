@@ -24,12 +24,14 @@ vercel dev --debug
 
 Go to [Vercel](https://vercel.com), import project and leave all default options as is.
 
-## View deployemnt in Vercel
+## View deployed app in Vercel
 
 Enter the following link in your browser :
 
-<https://nodejs-vercel-template-omega.vercel.app/>
+- Without parameters : <https://vercel-svg-badge-example.vercel.app/>
+- To change name : <https://vercel-svg-badge-example.vercel.app/?name=JohnDoe>
+- To get JSON response instead : <https://vercel-svg-badge-example.vercel.app/?name=JohnDoe&type=json>
 
-or
+## Badge integration
 
-<https://nodejs-vercel-template-omega.vercel.app/?name=Test>
+<img align="left" src="https://vercel-svg-badge-example.vercel.app/"/>
